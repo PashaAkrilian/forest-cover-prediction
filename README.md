@@ -62,7 +62,7 @@ pip install -r requirements.txt
 - [Forest Cover Type Dataset](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
 
 ## 👥 Author
-[Your Name]
+Dimas Pasha Akrilian
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details. 
